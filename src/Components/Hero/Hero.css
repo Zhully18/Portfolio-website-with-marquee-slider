@@ -17,6 +17,9 @@
 .hero_left h1{
     font-size: 60px;
 }
+.hero_left h1 span{
+    color: #1ae7b4;
+}
 .hero .hero_left p{
     margin-top: 15px;
     font-size: 20px;
@@ -49,4 +52,21 @@
 .hero .buttons button:nth-child(1):hover{
     background: transparent;
     border: 1px solid #2aaa8a;
+}
+.hero_bottom{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    width: 80%;
+    padding: 25px;
+    margin-left: 7rem;
+    background: #232324;
+    border-radius: 10px;
+}
+.hero_info h1{
+    font-size: 45px;
+    text-align: center;
+}
+.hero_info p{
+    font-size: 18px;
 }

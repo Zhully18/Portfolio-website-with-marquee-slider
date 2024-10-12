@@ -1,3 +1,6 @@
+.work_list{
+    margin-top: 150px;
+}
 .work_list .work_header{
     text-align: center;
     margin-top: 30px;
@@ -9,8 +12,10 @@
     align-items: center;
     overflow-y: auto;
     padding: 20px;
+   
 }
 .work{
+    
     background: #232324;
     display: flex;
     flex-direction: column;

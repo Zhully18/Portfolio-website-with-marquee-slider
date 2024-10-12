@@ -9,7 +9,7 @@ const Footer = () => {
         <div className="footer">
             <div className="footer_bottom">
                 <div className="footer_left">
-                    <h2>Alvin Jonathan</h2>
+                    <h2>Derek Einstein</h2>
                     <div className="socials">
                         <FaFacebook className='social_icon'/>
                         <BsInstagram className='social_icon' />

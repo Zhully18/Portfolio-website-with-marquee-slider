@@ -9,8 +9,8 @@ const Hero = () => {
       <div className="hero">
       <div className="hero_top">
         <div className="hero_left">
-          <h2>I'm Alvin Jonathan</h2>
-          <h1>Professional FullStack Developer </h1>
+          <h2>I'm Derek Einstein</h2>
+          <h1>Professional <span>FullStack</span> Developer </h1>
           <p>I'm a senior fullstack engineer with over 15 years of industrial working experience.  </p>
           <div className="buttons">
             <button>Hire Me</button>
@@ -24,7 +24,18 @@ const Hero = () => {
         </div>
       </div>
       <div className="hero_bottom">
-        
+        <div className="hero_info">
+          <h1>3+</h1>
+          <p>Years of Experience</p>
+        </div>
+        <div className="hero_info">
+          <h1>1000+</h1>
+          <p>Projects Completed</p>
+        </div>
+        <div className="hero_info">
+          <h1>800+</h1>
+          <p>Satisfied Clients</p>
+        </div>
       </div>
       </div>
     </div>
